@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1019903241045",
+    "firebase_url": "https://hello-17fc8.firebaseio.com",
+    "project_id": "hello-17fc8",
+    "storage_bucket": "hello-17fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019903241045:android:a09684b2d8ad1c69",
+        "android_client_info": {
+          "package_name": "com.example.fuga.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019903241045-j5hv6bk0aj05hqon6rhoc3812i6mgg7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMjxXWOSHOwDnpOugh4j4FzZFyF4fNiXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
